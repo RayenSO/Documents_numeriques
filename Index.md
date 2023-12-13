@@ -6,12 +6,12 @@ Bienvenue dans notre exploration de l'interopérabilité dans le secteur financi
 
 **Table des matières**
 
-* [Introduction](#introduction)
-* [Les différents formats](#formats)
-* [Les enjeux d'Interopérabilité Financière](#enjeux)
-* [Cas Pratiques](#caspratiques)
-* [Solutions innovantes](#solutions)
-* [Conclusion et perspectives](#conclusion)
+* [Introduction](introduction)
+* [Les différents formats](formats)
+* [Les enjeux d'Interopérabilité Financière](enjeux)
+* [Cas Pratiques](caspratiques)
+* [Solutions innovantes](solutions)
+* [Conclusion et perspectives](conclusion)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTA3MjQwM119
+eyJoaXN0b3J5IjpbLTE4MjIzMTQzOTMsMTU1MTA3MjQwM119
 -->
