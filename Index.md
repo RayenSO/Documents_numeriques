@@ -5,11 +5,11 @@
  Bienvenue dans notre exploration de l'interopérabilité dans le secteur financier. Découvrez les défis, les solutions innovantes, et les cas pratiques qui sous-tendent les échanges monétaires invisibles qui alimentent l'économie mondiale. 
 
  ## Introduction
- ## [Les différents formats](#formats)
- ## [Les enjeux d'Interopérabilité Financière](#enjeux)
- ## [Cas Pratiques](#caspratiques)
- ## [Solutions innovantes](#solutions)
- ## [Conclusion et perspectives](#conclusion)
+ ## Les différents formats
+ ## Les enjeux d’Interopérabilité  Financière
+ ##[Cas Pratiques
+ ## Solutions innovantes
+ ## Conclusion et perspectives
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MDMyNzc2LDE1NTEwNzI0MDNdfQ==
+eyJoaXN0b3J5IjpbLTE2OTc3NjcwMTIsMTU1MTA3MjQwM119
 -->
